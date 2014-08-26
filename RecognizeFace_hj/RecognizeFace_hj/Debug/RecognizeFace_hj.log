@@ -1,0 +1,20 @@
+﻿生成启动时间为 2014/5/15 17:45:16。
+     1>项目“E:\study\workspace\RecognizeFace_hj\RecognizeFace_hj\RecognizeFace_hj.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\RecognizeFace_hj.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         F:\VS2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         F:\VS2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\study\workspace\RecognizeFace_hj\Debug\RecognizeFace_hj.exe" /INCREMENTAL /NOLOGO opencv_calib3d248d.lib opencv_contrib248d.lib opencv_core248d.lib opencv_features2d248d.lib opencv_flann248d.lib opencv_gpu248d.lib opencv_highgui248d.lib opencv_imgproc248d.lib opencv_legacy248d.lib opencv_ml248d.lib opencv_nonfree248d.lib opencv_objdetect248d.lib opencv_ocl248d.lib opencv_photo248d.lib opencv_stitching248d.lib opencv_superres248d.lib opencv_ts248d.lib opencv_video248d.lib opencv_videostab248d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\study\workspace\RecognizeFace_hj\Debug\RecognizeFace_hj.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\study\workspace\RecognizeFace_hj\Debug\RecognizeFace_hj.lib" /MACHINE:X86 Debug\HaarDetect.obj
+         Debug\LBPHFaceRecognizer.obj
+         Debug\main.obj
+         RecognizeFace_hj.vcxproj -> E:\study\workspace\RecognizeFace_hj\Debug\RecognizeFace_hj.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\RecognizeFace_hj.unsuccessfulbuild”。
+         正在对“Debug\RecognizeFace_hj.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\study\workspace\RecognizeFace_hj\RecognizeFace_hj\RecognizeFace_hj.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.51
