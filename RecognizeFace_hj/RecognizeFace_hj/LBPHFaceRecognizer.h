@@ -6,6 +6,7 @@
 using namespace std;
 using namespace cv;
 
-void initRecognizer(const int num_trainingImages,const string image_Path);
+void initRecognizer(/*const int num_trainingImages,const string image_Path*/);
 string predictedString(const Mat faceMat);
+void read_csv(const string& csvfilename, vector<Mat>& images, vector<int>& labels, char separator);
 #endif

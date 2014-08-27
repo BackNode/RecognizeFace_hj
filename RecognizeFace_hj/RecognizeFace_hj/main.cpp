@@ -18,7 +18,7 @@ int main()
 	Mat faceMat[30];
 	int faceCount;
 	faceCascade = Load_Haar_Cascade();
-	initRecognizer(9,".\\trainingimages\\");
+	//initRecognizer(9,".\\trainingimages\\");
 	if(!faceCascade)
 		return 0;
 	camera = cvCreateCameraCapture(0);
